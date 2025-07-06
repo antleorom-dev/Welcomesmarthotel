@@ -1,0 +1,112 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:eu-west-1:051826742817:function:31ba33d7-d0bd-4cdf-b270-e6b6044cfc08:Release_0"
+        },
+        "interfaces": [],
+        "locales": {},
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:051826742817:function:31ba33d7-d0bd-4cdf-b270-e6b6044cfc08:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:051826742817:function:31ba33d7-d0bd-4cdf-b270-e6b6044cfc08:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:051826742817:function:31ba33d7-d0bd-4cdf-b270-e6b6044cfc08:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "automaticClonedLocale": {
+        "locales": [
+          {
+            "source": "en-US"
+          },
+          {
+            "source": "es-ES"
+          }
+        ]
+      },
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-US": {
+          "description": "Sample Full Description",
+          "examplePhrases": [
+            "Alexa open hello world",
+            "hello",
+            "help"
+          ],
+          "keywords": [],
+          "name": "WelcomeAlandalusTrain",
+          "summary": "Sample Short Description"
+        },
+        "en-CA": {
+          "description": "Sample Full Description",
+          "examplePhrases": [
+            "Alexa open hello world",
+            "hello",
+            "help"
+          ],
+          "keywords": [],
+          "name": "WelcomeAlandalusTrain",
+          "summary": "Sample Short Description"
+        },
+        "en-IN": {
+          "description": "Sample Full Description",
+          "examplePhrases": [
+            "Alexa open hello world",
+            "hello",
+            "help"
+          ],
+          "keywords": [],
+          "name": "WelcomeAlandalusTrain",
+          "summary": "Sample Short Description"
+        },
+        "es-ES": {
+          "name": "WelcomeAlandalusTrain"
+        },
+        "en-AU": {
+          "description": "Sample Full Description",
+          "examplePhrases": [
+            "Alexa open hello world",
+            "hello",
+            "help"
+          ],
+          "keywords": [],
+          "name": "WelcomeAlandalusTrain",
+          "summary": "Sample Short Description"
+        },
+        "es-US": {
+          "name": "WelcomeAlandalusTrain"
+        },
+        "en-GB": {
+          "description": "Sample Full Description",
+          "examplePhrases": [
+            "Alexa open hello world",
+            "hello",
+            "help"
+          ],
+          "keywords": [],
+          "name": "WelcomeAlandalusTrain",
+          "summary": "Sample Short Description"
+        },
+        "es-MX": {
+          "name": "WelcomeAlandalusTrain"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}

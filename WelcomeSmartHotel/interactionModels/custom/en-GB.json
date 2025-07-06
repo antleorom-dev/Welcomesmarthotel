@@ -1,0 +1,43 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloAlandalusIntent",
+          "samples": [
+            "saluda Alandalus",
+            "buenos días Alandalus",
+            "hola Alandalus",
+            "hello alandalus",
+            "say hello to alandalus",
+            "greet alandalus",
+            "Hi Alandalus"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "train welcome"
+    }
+  }
+}
